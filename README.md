@@ -1,2 +1,2 @@
 # Face-Recognition-project 
-Download the.ipynb file , open it in colab and run it.
+Download .ipynb file , open it in colab and run it.
